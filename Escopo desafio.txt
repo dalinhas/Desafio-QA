@@ -1,0 +1,10 @@
+Desafio-QA-site Kinvo
+Mapear o fluxo a ser testado - Funcionalidade: "Abrir Conta"
+Criar Scripts de testes e execultar os testes.
+Obs: testes funcionais manuais.
+
+Funcionalidade: Abrir Conta
+CT01-Layout da tela=OK
+CT02-abrir conta com sucesso=OK
+CT03-abrir conta com dados inválidos
+CT04-validar campos obrigatórios
